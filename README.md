@@ -8,6 +8,7 @@
 1. Once Electron has started, ctrl-c to kill the process
 
 Expected: no orphaned Electron processes
-Actual: about 70% of the time on my machine, orphaned Electron processes.
+
+Actual: about 30% of the time on my machine, orphaned Electron processes.
 
 See `orphaned-process.js` for more details.
